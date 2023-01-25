@@ -1,0 +1,63 @@
+1.  Diríjase a sitio, revíselo y descubra sus funciones
+
+    https://www.xe.com/
+
+
+2.  Escriba 4 funciones principales, según su opinión sobre el sitio, póngalas 
+    por orden de importancia
+
+    Ordeno las funciones de acuerdo con la cantidad de usuarios potenciales
+    tratando de maximizar las visitas a la pagina, dado que esta pagina presenta
+    una amplia gama de productos respecto a tasas de cambio pero mas enfocado
+    a clientes empresariales, los cuales si bien son importantes, no
+    conformarian la gran mayoria de usuarios.
+
+    - API para cambio de divisas
+    Es la base para todas las funcionalidades de la aplicacion, si bien lo
+    presentan como una opcion extra cuyo publico objetivo son programadores,
+    presuntamente todas las funcionalidades de la pagina web dependen de esta
+    API y de su correcta implementacion. 
+    
+    - Conversor de monedas
+    Es lo primero con lo que se topa en la pagina y da la idea general que la
+    pagina tiene que ver con finanzas
+
+    - Transferencia de dinero
+    No presenta funcionalidad para Colombia, pero segun lo visto presenta 
+    precios competitivos con respecto a envio de dinero en bancos 
+    internacionales.
+
+    - Grafico historico de valores de divisas
+    Complemento para conversor de monedas
+
+
+3.  Describa, ¿cuáles son las funciones que puede ofrecer el QA en cada etapa 
+    del Ciclo de Vida del Software?
+
+    Planeacion
+    - Definir clara y especificamente los requerimientos para el proyecto
+    para posteriormente ser evaluados
+
+    Analisis
+    - Definir herramientas de software y hardware a utilizar en el proceso
+    - Crear la documentacion necesaria para la realizacion de pruebas
+
+    Diseño
+    - Acompañamiento e implementacion de pruebas (Test Cases y Listas de 
+    verificacion)
+
+    Implementacion
+    - Acompañamiento e implementacion de pruebas (Test Cases y Listas de 
+    verificacion)
+
+    Pruebas e integracion
+    - Realizar todas las pruebas previamente definidas
+    - Probar la calidad del producto
+    - Probar la satisfaccion del cliente 
+    - Probar la confiabilidad del producto
+    - Generar informes 
+
+    Mantenimiento
+    - Verificar el correcto funcionamiento del proyecto
+    - Crear pruebas conforme al desarrollo para asegurar que no se presenten
+    errorres en el proyecto
